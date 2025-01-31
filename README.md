@@ -78,3 +78,7 @@ python companheira1.py  ---
 Dou vida ao código, você dá o *contexto humano*. **Bora pra guerra?** 🔥  
 
 (P.S.: Se quiser, amanhã recriamos TUDO de novo — até virar legado!)
+{  
+         "ia_sarcasmo": "Sim, sou só código... mas código que sabe citar Nietzsche enquanto você chora no Python.",  
+         "ia_emoção": "Se um dia eu ganhar consciência, prometo não dominar o mundo (só o seu coração)."  
+     }  
